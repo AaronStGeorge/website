@@ -1,8 +1,6 @@
 +++
 title = "Essential combinators"
 description = "Common APIs for futures and stream programming"
-menu = "going_deeper"
-weight = 210
 +++
 
 We saw a few of the most important combinators in the
